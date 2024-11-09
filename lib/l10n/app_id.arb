@@ -1,0 +1,74 @@
+{
+    "login": "Masuk",
+    "register": "Daftar",
+    "labelFieldName": "Nama",
+    "errorFieldName": "Tolong masukkan nama",
+    "errorFieldEmail1": "Tolong masukkan email",
+    "errorFieldEmail2": "Masukkan email yang valid",
+    "errorFieldPassword1": "Tolong masukkan password",
+    "errorFieldPassword2": "Harus lebih dari 8 karakter",
+    "labelFieldConfirmPassword": "Konfirmasi Password",
+    "errorFieldConfirmPassword1": "Tolong masukkan konfirmasi password",
+    "errorFieldConfirmPassword2": "Password tidak sama",
+    "messageSuccessDialogRegister": "Berhasil menambahkan akun baru!",
+    "alreadyHaveAccount": "Sudah punya akun? ",
+    "registerTextSection": "Ayo kita mulai!",
+    "loginTextSection": "Halo, Selamat Datang!",
+    "forgotPassword": "Lupa password?",
+    "haveAccount": "Belum punya akun?",
+    "registerHere": "Daftar sini",
+    "addStory": "Tambah story",
+    "description": "Deskripsi",
+    "successAddStory": "Yeay, berhasil menambahkan story",
+    "failedAddStory": "Yahh, gagal menambahkan story",
+    "pleaseAddImage": "Tolong tambahkan gambar dulu",
+    "pleaseAddDescription": "Tolong tambahkan deskripsi dulu",
+    "success": "Berhasil",
+    "failed": "Gagal",
+    "cancel": "Kembali",
+    "differentDurationYear": "{duration} tahun lalu",
+    "@differentDurationYear": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationDays": "{duration} hari lalu",
+    "@differentDurationDays": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationHours": "{duration} jam lalu",
+    "@differentDurationHours": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationMinutes": "{duration} menit lalu",
+    "@differentDurationMinutes": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationSeconds": "{duration} detik lalu",
+    "@differentDurationSeconds": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    }
+}

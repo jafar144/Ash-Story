@@ -1,0 +1,74 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "labelFieldName": "Name",
+    "errorFieldName": "Please enter name",
+    "errorFieldEmail1": "Please enter email",
+    "errorFieldEmail2": "Enter valid email",
+    "errorFieldPassword1": "Please enter password",
+    "errorFieldPassword2": "Must be at least 8 characters",
+    "labelFieldConfirmPassword": "Confirm Password",
+    "errorFieldConfirmPassword1": "Please enter confirm password",
+    "errorFieldConfirmPassword2": "Password do not match",
+    "messageSuccessDialogRegister": "Success create new account!",
+    "alreadyHaveAccount": "Already have account? ",
+    "registerTextSection": "Let's get started!",
+    "loginTextSection": "Hello, Welcome Bace!",
+    "forgotPassword": "Forgot Password?",
+    "haveAccount": "Don't have account? ",
+    "registerHere": "Register here",
+    "addStory": "Add Story",
+    "description": "Description",
+    "successAddStory": "Horay, success add story!",
+    "failedAddStory": "Noo, failed to upload story",
+    "pleaseAddImage": "Please add image!",
+    "pleaseAddDescription": "Please add description",
+    "success": "Success",
+    "failed": "Failed",
+    "cancel": "Cancel",
+    "differentDurationYear": "{duration} years ago",
+    "@differentDurationYear": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationDays": "{duration} days ago",
+    "@differentDurationDays": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationHours": "{duration} hours ago",
+    "@differentDurationHours": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationMinutes": "{duration} minutes ago",
+    "@differentDurationMinutes": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    },
+    "differentDurationSeconds": "{duration} seconds ago",
+    "@differentDurationSeconds": {
+        "description": "Pesan dengan format int",
+        "placeholders": {
+            "duration": {
+                "type": "int"
+            }
+        }
+    }
+}

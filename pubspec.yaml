@@ -1,0 +1,51 @@
+name: submission_intermediate
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  go_router: ^14.3.0
+  dio: ^5.7.0
+  flutter_bloc: ^8.1.6
+  shared_preferences: ^2.3.2
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  image_picker: ^1.1.2
+  image: ^4.3.0
+  focus_detector: ^2.0.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/vectors/
+  
+  fonts:
+    - family: CircularStd
+      fonts:
+        - asset: assets/fonts/CircularStd-Black.ttf
+          weight: 800
+        - asset: assets/fonts/CircularStd-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/CircularStd-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/CircularStd-Regular.ttf
+          weight: 400
