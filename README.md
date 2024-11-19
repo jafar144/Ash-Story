@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jafar144/AshStory">
+    <img src="assets/images/logo_app.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Ash Story</h3>
@@ -40,7 +40,7 @@ Ash Story is a mobile social media application where users can view photos share
 <br />
 This project focuses on implementing modern Flutter practices and follows clean architecture principles. It includes robust state management, efficient API communication, and seamless navigation.
 
-Key Features:
+**Key Features:**
 
 - User Authentication: Login functionality for secure access, using Dio for API requests and shared_preferences for token management.
 - Photo Feed: Users can browse a dynamic feed of photos uploaded by others.
@@ -48,14 +48,25 @@ Key Features:
 - State Management: Bloc Cubit provides a reactive approach to manage states effectively.
 - Focus Detector: Ensures optimized performance and user experience.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+**Screenshots App:**
+<div align="center">
+  
+| Welcome Screen | Login Screen | Register Screen |
+|:--------------:|:------------:|:---------------:|
+| <img src="screenshots/Welcome.png" alt="Welcome Screen" width="200"> | <img src="screenshots/Login.png" alt="Login Screen" width="200"> | <img src="screenshots/Register.png" alt="Register Screen" width="200"> |
+
+| Home Screen | Add Story Screen | Logout Screen |
+|:-----------:|:----------------:|:-------------:|
+| <img src="screenshots/Home.png" alt="Home Screen" width="200"> | <img src="screenshots/Add Story.png" alt="Add Story Screen" width="200"> | <img src="screenshots/Logout.png" alt="Logout Screen" width="200"> |
+
+</div>
 
 ### Built With
 
-Framework:
+**Framework:**
 * [![Flutter][Flutter]][Flutter-url]
 
-Library and Technology:
+**Library and Technology:**
 * [![Dio][Dio]][Dio-url]
 * [![Bloc-Cubit][Bloc]][Bloc-url]
 * [![Go-Router][Go-Router]][Go-Router-url]
