@@ -1,8 +1,11 @@
 <a id="readme-top"></a>
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+</div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
